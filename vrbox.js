@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) {
     $('#clickhere').click(function(){
-		$('#obj1').addClass('visible');
+		$('#obj1').adClass('visible');
 		$('#obj2').addClass('visible');
 		}
 	);
